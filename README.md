@@ -2,6 +2,8 @@
 
 Este projeto implementa uma lista circular simplesmente encadeada não ordenada em Python. A lista permite a adição de elementos no início e no fim, remoção de elementos por valor, exibição da lista e esvaziamento completo da lista. Além disso, o projeto inclui um menu interativo para facilitar a manipulação da lista.
 
+# Veja a Wiki do Projeto par mais informações
+
 ## Funcionalidades
 
 - **Adicionar no início**: Adiciona um novo elemento no início da lista.
